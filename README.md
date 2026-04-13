@@ -197,10 +197,10 @@ The design follows modern UI practices:
 ---
 
 ### Mobile View
-![screenshot](screenshots/mobile1.jpeg)
-![screenshot](screenshots/mobile2.jpeg)
-![screenshot](screenshots/mobile3.jpeg)
 ![screenshot](screenshots/mobile4.jpeg)
+![screenshot](screenshots/mobile1.jpeg)
+![screenshot](screenshots/mobile3.jpeg)
+![screenshot](screenshots/mobile2.jpeg)
 
 ---
 
