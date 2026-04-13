@@ -101,23 +101,24 @@ This project demonstrates the ability to:
 
 ---
 
-##  Project Folder Structure
+## Project Structure
+```
 ChatUI/
 │
 ├── index.html
-│
+|
 ├── css/
-│ └── style.css
-│
+     ├──  style.css
+|
 ├── js/
-│ └── chat.js
-│
+     ├── chat.js
+│  
 ├── screenshots/
-│ ├── desktop.png
-│ ├── mobile.png
-│
+       ├── desktop.png
+       ├── mobile.png
 └── README.md
-
+```
+---
 
 ---
 
@@ -188,7 +189,8 @@ The design follows modern UI practices:
 ##  Screenshots
 
 ### Desktop View
-(Add screenshot here)
+![screenshot](screenshots/desktop1.png)
+
 
 
 ### Mobile View
