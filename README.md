@@ -102,7 +102,7 @@ This project demonstrates the ability to:
 ---
 
 ##  Project Folder Structure
-YourName_ChatUI/
+ChatUI/
 │
 ├── index.html
 │
@@ -202,7 +202,7 @@ The design follows modern UI practices:
 **Name:** Sanjana Pralhad Harakuni  
 **Assignment:** CampusPe Gen AI Assignment  
 **Repository:**  
-https://github.com/YOUR_USERNAME/Campuspe-assignment04
+https://github.com/SANJANAHARAKUNI2003/Campuspe-assignment04.git
 
 ---
 
