@@ -190,11 +190,17 @@ The design follows modern UI practices:
 
 ### Desktop View
 ![screenshot](screenshots/desktop1.png)
+![screenshot](screenshots/desktop2.png)
+![screenshot](screenshots/desktop3.png)
+![screenshot](screenshots/desktop4.png)
 
-
+---
 
 ### Mobile View
-
+![screenshot](screenshots/mobile1.png)
+![screenshot](screenshots/mobile2.png)
+![screenshot](screenshots/mobile3.png)
+![screenshot](screenshots/mobile4.png)
 
 ---
 
